@@ -1,1 +1,14 @@
-# Kod-hastasi
+Proje yazarı: Yasir Yankaç
+# Proje Adı: Kod_hastasi_asistanim v0.1
+## Projenin amacı: Kullanıcılara günlük işlerinde (hesaplama,selamlama,vb.)
+## Projenin hedefleri:
+* V1.0 Akıllı Menü
+*V2.0 Veri Saklama
+# projenin kapsamı:Kritik eşik
+BAŞLA
+değeri oku (değer)
+EĞER değer>=50 YAZ "Kritik eşik"
+DEĞİLSE YAZ "Durum normal"
+DUR
+## kaynakça: HOCAM ve programlama temelleri
+http:/www.robotiksistem.com/flowchart.jpg
